@@ -1,0 +1,148 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.gap .fa-twitter {
+    margin-right: 100px;
+}
+
+.gap i {
+    margin-left: 20px;
+    color: white;
+}
+
+.BG-color {
+    background-color: black;
+    /* color: red; */
+}
+
+/* style.css */
+.BG_img {
+    background-image: url(./front.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+
+.PARA-mar_top {
+    margin-top: 270PX;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.BG_img h1 {
+    color: white;
+    font-weight: 600;
+}
+
+.BG_img p {
+    color: white;
+}
+
+.BG_img button {
+    border: none;
+    background-color: #009475;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.text_color1 p {
+    color: #009475;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 70px;
+}
+
+.text_color1 h3 {
+    margin-left: 70px;
+    margin-top: -15px;
+}
+
+.center_item {
+    text-align: center;
+}
+
+.center_item i {
+    font-size: 24px;
+    margin-bottom: 17px;
+    color: green;
+}
+
+.para_color {
+    color: rgb(94, 201, 201);
+    font-weight: 700;
+}
+
+.Footer_color {
+    font-weight: 700;
+}
+
+.footer_img img {
+    width: 70%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.footer_img {
+    padding-left: 60px;
+
+}
+
+
+/* style.css */
+
+/* Custom CSS to make the navbar toggle button white */
+/* style.css */
+
+/* Custom CSS to make the navbar toggle button white */
+/* style.css */
+
+/* Custom CSS to make the navbar toggle button white */
+.white-toggler {
+    background-color: white;
+    border: none;
+    box-shadow: none;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+}
+
+/* Set the color of the toggle icon to black (optional) */
+.white-toggler .navbar-toggler-icon {
+    color: black;
+}
+
+/* Change the background color of the button when toggled */
+.white-toggler[data-bs-toggle="collapse"][aria-expanded="true"] {
+    background-color: #f1f1f1;
+    /* You can change this color to match your design */
+}
+
+
+
+.nav-item a {
+    color: white;
+}
+
+.nav-item a:hover {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+    margin-left: 80px;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
